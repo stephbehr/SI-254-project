@@ -10,7 +10,7 @@ body{background-color: rgba(192, 192, 192, 0.7); font-family:cursive;}
   padding: 10px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: centre;
   height: 50px;}
 
 .top-bar ul{
