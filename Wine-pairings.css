@@ -1,5 +1,7 @@
 h1{color: darkgreen; font-weight: bold;}
 h2{color: darkgreen; font-weight: bold; font-type: arial;}
+body{background-color: rgba(85, 107, 47, 0.3);
+     font-family: cursive}
 
 .top-bar{
   background-color: rgba(0, 128, 0, 0.1);
@@ -11,4 +13,39 @@ h2{color: darkgreen; font-weight: bold; font-type: arial;}
   align-items: center;
   height: 50px;}
 
+.top-bar ul{
+  list-style-type:none;}
 
+.top-bar ul li{
+  display: inline;
+  margin-right: 15px;
+  font-size: 15px;}
+
+.top-bar a:link{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;}
+
+.top-bar a:visited{
+  text-decoration: none;
+  color: grey;
+  font-weight: bold;}
+
+.logo img{
+  opacity: 0.7;
+  height: 60px;
+  margin-left: 20px;
+  width: 180px}
+
+.tour-image{
+  max-width: 200px;
+  height: auto;}
+
+.pairing-image{
+  max-width: 200px;
+    height:auto;}
+
+main{
+  display: flex;
+  flex-wrap: wrap;
+  justfy-content: space-betweeen;}
