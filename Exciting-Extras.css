@@ -5,3 +5,18 @@ body{
   background-color: transparent;
   opacity: 0.7;
   font-family: cursvie;}
+
+h1{color: black; font-weigh:bold;}
+h2{color: black; font-type: arial;}
+
+.top-bar{background-color:rgba(0, 0, 0, 0.5);
+         color:white;
+         text-align: center-justify;
+         padding: 10px;
+         display: flex;
+         justify-content: space-between;
+         align-items: center;
+         height: 50px;}
+
+.top-bar ul{list-style-type: none;}
+  
