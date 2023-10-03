@@ -19,4 +19,17 @@ h2{color: black; font-type: arial;}
          height: 50px;}
 
 .top-bar ul{list-style-type: none;}
-  
+.top-bar ul li{
+  display: inline;
+  margin-right: 15px;
+  font-size: 15px;
+  color: white;
+}
+
+.top-bar a:link,
+.top-bar a:visited{
+  tetx-decoration: none;
+  color: white;
+  font-weight: bold;}
+
+
