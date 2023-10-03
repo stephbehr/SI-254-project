@@ -33,3 +33,14 @@ h2{color: black; font-type: arial;}
   font-weight: bold;}
 
 
+.logo img{
+  opacity: 1;
+  height: 60px;
+  margin-left: 20px;
+  width: 200px;
+  filter: brightness(90%)}
+
+.flex-container{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;}
