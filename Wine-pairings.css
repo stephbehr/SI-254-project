@@ -1,1 +1,14 @@
+h1{color: darkgreen; font-weight: bold;}
+h2{color: darkgreen; font-weight: bold; font-type: arial;}
+
+.top-bar{
+  background-color: rgba(0, 128, 0, 0.1);
+  color: white;
+  text-align: center-justify;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;}
+
 
