@@ -1,1 +1,18 @@
+h1{color: darkgreen;
+   font-weight: bold;}
+h2 { color: darkgreen;
+    font-weight: bold;
+    font-family: Arial, sans-serif;}
+body{ background-color: rgba(85, 107, 47, 0.3);
+     font-family: cursive;}
 
+.top-bar{
+  background-color: RGBA(0,128,0, 0.1);
+  color: white;
+  text-align: center-justify;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;}
+  
