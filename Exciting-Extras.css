@@ -5,7 +5,8 @@ body{
   background-color: transparent;
   opacity: 0.7;
   font-family: cursvie;
-  font-size: larger;}
+  font-size: larger;
+  font-weight: bold;}
 
 h1{color: black; font-weight:bold;}
 h2{color: black; font-family: arial;}
