@@ -7,7 +7,7 @@ body{ background-color: rgba(85, 107, 47, 0.3);
      font-family: cursive;}
 
 .top-bar{
-  background-color: RGBA(0,128,0, 0.1);
+  background-color: rgba(0,128,0, 0.1);
   color: white;
   text-align: center-justify;
   padding: 10px;

@@ -6,12 +6,12 @@ body{
   opacity: 0.7;
   font-family: cursvie;}
 
-h1{color: black; font-weigh:bold;}
-h2{color: black; font-type: arial;}
+h1{color: black; font-weight:bold;}
+h2{color: black; font-family: arial;}
 
 .top-bar{background-color:rgba(0, 0, 0, 0.5);
          color:white;
-         text-align: center-justify;
+         text-align: center;
          padding: 10px;
          display: flex;
          justify-content: space-between;
@@ -19,16 +19,17 @@ h2{color: black; font-type: arial;}
          height: 50px;}
 
 .top-bar ul{list-style-type: none;}
+
 .top-bar ul li{
   display: inline;
   margin-right: 15px;
-  font-size: 15px;
+  font-size: 14px;
   color: white;
 }
 
 .top-bar a:link,
 .top-bar a:visited{
-  tetx-decoration: none;
+  text-decoration: none;
   color: white;
   font-weight: bold;}
 
@@ -37,7 +38,7 @@ h2{color: black; font-type: arial;}
   opacity: 1;
   height: 60px;
   margin-left: 20px;
-  width: 200px;
+  width: 180px;
   filter: brightness(90%)}
 
 .flex-container{
