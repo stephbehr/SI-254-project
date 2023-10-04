@@ -1,12 +1,12 @@
 h1{color: darkgreen; font-weight: bold;}
-h2{color: darkgreen; font-weight: bold; font-type: arial;}
+h2{color: darkgreen; font-weight: bold; font-family: arial;}
 body{background-color: rgba(85, 107, 47, 0.3);
      font-family: cursive}
 
 .top-bar{
   background-color: rgba(0, 128, 0, 0.1);
   color: white;
-  text-align: center-justify;
+  text-align: center;
   padding: 10px;
   display: flex;
   justify-content: space-between;
@@ -19,7 +19,7 @@ body{background-color: rgba(85, 107, 47, 0.3);
 .top-bar ul li{
   display: inline;
   margin-right: 15px;
-  font-size: 15px;}
+  font-size: 14px;}
 
 .top-bar a:link{
   text-decoration: none;
@@ -48,7 +48,7 @@ body{background-color: rgba(85, 107, 47, 0.3);
 main{
   display: flex;
   flex-wrap: wrap;
-  justfy-content: space-betweeen;}
+  justify-content: space-betweeen;}
 
 section{
      flex: 1;

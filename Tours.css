@@ -9,7 +9,7 @@ body{ background-color: rgba(85, 107, 47, 0.3);
 .top-bar{
   background-color: rgba(0,128,0, 0.1);
   color: white;
-  text-align: center-justify;
+  text-align: center;
   padding: 10px;
   display: flex;
   justify-content: space-between;
@@ -18,14 +18,17 @@ body{ background-color: rgba(85, 107, 47, 0.3);
   
 .top-bar ul{
    list-style-type: none;}
+
 .top-bar ul li{
    display:inline;
    margin-right: 15px;
-   font-size: 15px;}
+   font-size: 14px;}
+
 .top-bar a:link{
    text-decoration: none;
    color: black;
    font-weight: bold;}
+
 .top-bar a:visited{
    text-decoration: none;
    color: grey;
@@ -33,9 +36,9 @@ body{ background-color: rgba(85, 107, 47, 0.3);
 
 .logo img{
    opacity: 0.7;
-   height: 50px;
+   height: 60px;
    margin-left: 20px;
-   width: 200px;}
+   width: 180px;}
 
 #franshoek-tour .tour-image,
 #ebike-tour .tour-image,
