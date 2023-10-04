@@ -11,6 +11,8 @@ body{
 h1{color: black; font-weight:bold;}
 h2{color: black; font-family: arial;}
 
+footer{font-weight:none}
+
 .top-bar{background-color:rgba(0, 0, 0, 0.5);
          color:white;
          text-align: center;
