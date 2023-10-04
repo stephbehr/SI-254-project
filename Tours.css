@@ -6,6 +6,15 @@ h2 { color: darkgreen;
 body{ background-color: rgba(85, 107, 47, 0.3);
      font-family: cursive;}
 
+footer{font-weight: none;
+position: absolute;
+bottom: 0;
+width: 100%;
+background-color: none;
+color: white;
+text-align: center;
+padding:10px;}     
+
 .top-bar{
   background-color: rgba(0,128,0, 0.1);
   color: white;

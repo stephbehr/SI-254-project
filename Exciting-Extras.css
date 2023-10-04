@@ -11,7 +11,14 @@ body{
 h1{color: black; font-weight:bold;}
 h2{color: black; font-family: arial;}
 
-footer{font-weight:none;}
+footer{font-weight:none;
+  position: absolute;
+bottom: 0;
+width:100%;
+background-color: none;
+color:black;
+text-align: center;
+padding:10px;}
 
 .top-bar{background-color:rgba(0, 0, 0, 0.5);
          color:white;
